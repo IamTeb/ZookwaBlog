@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979773519521",
+    "firebase_url": "https://zookwablog.firebaseio.com",
+    "project_id": "zookwablog",
+    "storage_bucket": "zookwablog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979773519521:android:25beaf03794a568e",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.zookwablog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979773519521-tn8fvtte4svnkqvtf0t2mt2k5vua250i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.zookwablog",
+            "certificate_hash": "0A6AD6F6D35B2668D62DB5FB0A5B9DFD83015AF0"
+          }
+        },
+        {
+          "client_id": "979773519521-0l1e1d3128fuobcap5a8hr6oeggc1q55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFteFoQeTEJIQ63qyKvgzvvawTf4GCsWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979773519521-0l1e1d3128fuobcap5a8hr6oeggc1q55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
